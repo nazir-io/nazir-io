@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nazir, an <a href="https://linkedin.com/in/nazir-g-868b51341">IT Professional</a>☺</h1>
+<h1>Hi, I'm Nazir, an <a href="https://linkedin.com/in/nazir-g-868b51341">IT Specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
